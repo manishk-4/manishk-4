@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ph.D. Graduate from IIT Bombay, India. Currently, I am a Postdoctoral Researcher at Universite Libre de Bruxelles, Belgium.
+- 👀 I’m interested in Thermal and Fluid dynamics research problems and develop computational models for the same.
+- 🌱 I’m currently learning about machine learning and how it can be used to solve fluid dynamics problems.
+- 💞️ I’m looking to collaborate on projects related thermal and fluids engineering involving application of machine learning.
+- 📫 I can be reached by email: manishk.iitb@gmail.com
